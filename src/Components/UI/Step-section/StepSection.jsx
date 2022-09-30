@@ -1,5 +1,5 @@
 import React,{useEffect} from 'react'
-import community from '../../../Assets/img/com1.png'
+import community from '../../../Assets/img/commm1.png'
 import education from '../../../Assets/img/education-removebg-preview.png'
 import move from '../../../Assets/img/Move-removebg-preview.png'
 import Discord from '../../../Assets/img/discord-logo-transparent-chat-removebg-preview.png'

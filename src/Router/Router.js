@@ -7,7 +7,7 @@ import Job from '../Pages/Job'
 import Metrics from '../Pages/Metrics'
 import News from '../Pages/News'
 import Education from '../Pages/Education'
-import Contributor from '../Pages/Contributor'
+// import Contributor from '../Pages/Contributor'
 import Airdrop from '../Pages/Airdrop'
 // import Projectdetails from '../Pages/Projectdetails'
 import Project from '../Pages/Project'
@@ -27,7 +27,7 @@ function Router() {
       <Route path='/jobs' element={<Job />}/>
       <Route path='/airdrop' element={<Airdrop />}/>
       <Route path='/news' element={<News />}/>
-      <Route path='/contributor' element={<Contributor />}/>
+      {/* <Route path='/contributor' element={<Contributor />}/> */}
       <Route path='/ecosystem:id' element={<Ecosystem />} />
       <Route path='/ecosystem' element={<Ecosystem />} />
       <Route path='/metrics' element={<Metrics />}/>

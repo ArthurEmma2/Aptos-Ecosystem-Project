@@ -33,10 +33,10 @@ const NAV__LINKS = [
         display: 'Airdrop',
         url: '/airdrop' 
     },
-    {
-        display: 'Contributors',
-        url: '/contributor' 
-    },
+    // {
+    //     display: 'Contributors',
+    //     url: '/contributor' 
+    // },
 ]
 
 function Header() {
