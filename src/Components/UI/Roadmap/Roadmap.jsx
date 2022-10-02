@@ -38,7 +38,7 @@ function Roadmap() {
    {/* Stack 1 */}
     <div className="col-span-4 w-full h-full ">
         <div className="w-full h-full bg-transparent shadow-sm shadow-slate-500 rounded-md p-4 md:pl-4"data-aos='flip-left'>
-            <h1 className="text-white text-xl font-medium py-2 q-title">Q3 2022</h1>
+            <h1 className="text-white text-xl font-medium py-2 q-title">Q1 2023</h1>
             <h2 className='text-[14px] text-white md:text-white md:text-lg font-bold my-1'>  Become a validator node on the aptos mainnet</h2>
                 <p className="text-gray-100 sm:text-sm text-xs tracking-[1.7px] mb-4">
                 <ReadMore>
@@ -65,7 +65,7 @@ function Roadmap() {
     </div>
     <div className="relative col-span-1 w-full h-full flex justify-center items-center">
         <div className="h-full w-1 bg-white"></div>
-        <div className="absolute w-6 h-6 rounded-full bg-[#1DE9B6] z-1 text-black text-center">Q3</div>
+        <div className="absolute w-6 h-6 rounded-full bg-[#1DE9B6] z-1 text-black text-center">Q1</div>
     </div>
     <div className="col-span-4 w-full h-full"></div>
 
@@ -74,11 +74,11 @@ function Roadmap() {
     <div className="col-span-4 w-full h-full"></div>
     <div className="relative col-span-1 w-full h-full flex justify-center items-center">
         <div className="h-full w-1  bg-white"></div>
-        <div className="absolute w-6 h-6 rounded-full bg-[#1DE9B6] z-1 text-black text-center">Q4</div>
+        <div className="absolute w-6 h-6 rounded-full bg-[#1DE9B6] z-1 text-black text-center">Q2</div>
     </div>
     <div className="col-span-4 w-full h-full ">
         <div className="w-full h-full  bg-transparent shadow-sm shadow-slate-500 rounded-md p-4 md:pl-4" data-aos='flip-left'>
-            <h1 className="text-white text-xl font-medium py-2 q-title">Q4 2022</h1>
+            <h1 className="text-white text-xl font-medium py-2 q-title">Q2 2023</h1>
             
             
                 <h2 className='text-[14px] text-white md:text-white md:text-lg font-bold my-1'>Implementation of the airdrop section on Dapptos View</h2>
@@ -109,7 +109,7 @@ function Roadmap() {
     {/* Stack 3 */}
     <div className="col-span-4 w-full h-full ">
         <div className="w-full h-full bg-transparent shadow-sm shadow-slate-500 rounded-md p-4 md:pl-4"data-aos='fade-right'>
-            <h1 className="text-white text-xl font-medium py-2 q-title">Q1 2023</h1>
+            <h1 className="text-white text-xl font-medium py-2 q-title">Q3 2023</h1>
             <h2 className='text-[14px] text-white md:text-white md:text-lg font-bold my-1'> Creation of the DAO (roadmap coming soon)</h2>
                 <p className="text-gray-100 sm:text-sm text-xs tracking-[1.7px] mb-4">
                 <ReadMore>
@@ -121,7 +121,7 @@ function Roadmap() {
     </div>
     <div className="relative col-span-1 w-full h-full flex justify-center items-center">
         <div className="h-full w-1  bg-white"></div>
-        <div className="absolute w-6 h-6 rounded-full bg-[#1DE9B6] z-1 text-black text-center">Q1</div>
+        <div className="absolute w-6 h-6 rounded-full bg-[#1DE9B6] z-1 text-black text-center">Q3</div>
     </div>
     <div className="col-span-4 w-full h-full"></div>
 
