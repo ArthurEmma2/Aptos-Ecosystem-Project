@@ -2,7 +2,15 @@ import React from 'react'
 
 function Job() {
   return (
-    <div className='text-white text-5xl mt-52 text-center'>Ecosystem Jobs</div>
+    <>
+    <section className='container mt-32'>
+      <div>
+        <p className='text-white sm:text-5xl lg:text-7xl font-bold text-center'>Find out more about aptos ecosystem jobs</p>
+        </div>
+    </section>
+    
+    </>
+   
   )
 }
 
