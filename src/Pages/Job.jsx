@@ -33,9 +33,9 @@ function Job() {
                 <img  className='mt-5' src={apt} width='70px' alt='logo'/>
                   </div>
                     <div className='m-7'>
-                    <button className='text-black text-[12px] md:text-2xl font-bold hover:underline hover:underline-offset-4 hover:transition-all'>Front End Engineer</button>
+                    <button className='text-black text-[12px] md:text-2xl font-bold hover:underline hover:underline-offset-4 hover:transition-all'>Data Engineer</button>
                     <p className='font-semibold  text-[10px] md:text-xl'>Aptos Labs</p>
-                    <p className='opacity-80 text-[10px] md:text-xl'>Remote-Global</p>
+                    <p className='opacity-80 text-[10px] md:text-xl'>Remote-USA</p>
                 </div>
               </div>
               <div className='hidden md:flex'>
