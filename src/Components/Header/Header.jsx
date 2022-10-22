@@ -2,7 +2,7 @@
 
 import { useRef, useEffect, } from 'react'
 
-import logo from '../../Assets/img/logo-removebg-preview.png'
+import logo from '../../Assets/img/new_log.png'
 
 import './Header.css'
 import {NavLink, Link} from 'react-router-dom'
@@ -33,10 +33,10 @@ const NAV__LINKS = [
         display: 'Airdrop',
         url: '/airdrop' 
     },
-    // {
-    //     display: 'Contributors',
-    //     url: '/contributor' 
-    // },
+    {
+        display: 'Contributors',
+        url: '/contributor' 
+    },
 ]
 
 function Header() {
