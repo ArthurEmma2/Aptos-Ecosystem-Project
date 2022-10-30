@@ -78,7 +78,7 @@ function Job() {
             </div>
           </div>
 
-          <p className='mt-52'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum voluptatum laudantium, molestiae, nesciunt beatae expedita error asperiores, nam reprehenderit eum consequuntur tempore esse doloribus suscipit pariatur est animi quibusdam distinctio.</p>
+          <p className='mt-52'>Lorem ipsum dolor sit amet consectetur adipisicing</p>
 
     </section>
     
