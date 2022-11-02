@@ -78,7 +78,7 @@ function Job() {
             </div>
           </div>
 
-          <p className='mt-52'>Lorem ipsum dolor sit amet consectetur adipisicing</p>
+          <p className='mt-52'>Lorem</p>
 
     </section>
     
