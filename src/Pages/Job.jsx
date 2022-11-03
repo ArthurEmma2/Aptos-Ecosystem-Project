@@ -9,8 +9,11 @@ function Job() {
         <p className='text-white text-3xl lg:text-7xl font-bold text-center'>Aptos! layer 1 for everyone</p>
         <button className='bg-white shadow-md shadow-slate-400 text-center mx-auto py-2 px-5 rounded-lg mt-8 text-xl hover:opacity-40'>Post a job</button>
         </div>
-          <div className='bg-[#1DE9B6] rounded-md shadow-md shadow-slate-600 w-full mt-32 h-32 items-center px-4'>
+        <div className='mt-32'>
+        <header className='text-white text-3xl opacity-70 font-bold text-left underline  underline-offset-8 mb-10'>Engineering</header>
+          <div className='bg-[#1DE9B6] rounded-md shadow-md shadow-slate-600 w-full h-32 items-center px-4'>
             <div className='flex justify-between items-center'>
+            
               <div className='flex'>
                 <div>
                 <img  className='mt-5' src={apt} width='70px' alt='logo'/>
@@ -33,9 +36,9 @@ function Job() {
                 <img  className='mt-5' src={apt} width='70px' alt='logo'/>
                   </div>
                     <div className='m-7'>
-                    <button className='text-black text-[12px] md:text-2xl font-bold hover:underline hover:underline-offset-4 hover:transition-all'>Data Engineer</button>
+                    <button className='text-black text-[12px] md:text-2xl font-bold hover:underline hover:underline-offset-4 hover:transition-all'>Developer Relations Engineer - APAC</button>
                     <p className='font-semibold  text-[10px] md:text-xl'>Aptos Labs</p>
-                    <p className='opacity-80 text-[10px] md:text-xl'>Remote-USA</p>
+                    <p className='opacity-80 text-[10px] md:text-xl'>Singapore</p>
                 </div>
               </div>
               <div className='hidden md:flex'>
@@ -60,7 +63,7 @@ function Job() {
               </div>
             </div>
           </div>
-          <div className='bg-[#1DE9B6] rounded-md shadow-md mt-12 shadow-slate-600 w-full h-32 items-center px-4'>
+          <div className='bg-[#1DE9B6] rounded-md shadow-md mt-12 shadow-slate-600 w-full h-32 items-center px-4 mb-12'>
             <div className='flex justify-between items-center'>
               <div className='flex'>
                 <div>
@@ -77,9 +80,251 @@ function Job() {
               </div>
             </div>
           </div>
+          <div className='bg-[#1DE9B6] rounded-md shadow-md shadow-slate-600 w-full h-32 items-center px-4'>
+            <div className='flex justify-between items-center'>
+            
+              <div className='flex'>
+                <div>
+                <img  className='mt-5' src={apt} width='70px' alt='logo'/>
+                  </div>
+                    <div className='m-7'>
+                    <button className='text-black text-[12px] md:text-2xl  font-bold hover:underline hover:underline-offset-4 hover:transition-all'>Developer Relations Engineer - Korea</button>
+                    <p className='font-semibold  text-[10px] md:text-xl'>Aptos Labs</p>
+                    <p className='opacity-80 text-[10px] md:text-xl'>Remote-Global</p>
+                </div>
+              </div>
+              <div className='hidden md:flex'>
+                <button className='text-black'>Apply now<i class="ri-arrow-right-fill"></i></button>
+              </div>
+            </div>
+          </div>
+          <div className='bg-[#1DE9B6] rounded-md shadow-md mt-12 shadow-slate-600 w-full h-32 items-center px-4'>
+            <div className='flex justify-between items-center'>
+              <div className='flex'>
+                <div>
+                <img  className='mt-5' src={apt} width='70px' alt='logo'/>
+                  </div>
+                    <div className='m-7'>
+                    <button className='text-black text-[12px] md:text-2xl font-bold hover:underline hover:underline-offset-4 hover:transition-all'>Developer Relations Manager</button>
+                    <p className='font-semibold  text-[10px] md:text-xl'>Aptos Labs</p>
+                    <p className='opacity-80 text-[10px] md:text-xl'>Remote-USA</p>
+                </div>
+              </div>
+              <div className='hidden md:flex'>
+                <button className='text-black'>Apply now<i class="ri-arrow-right-fill"></i></button>
+              </div>
+            </div>
+          </div>
+          <div className='bg-[#1DE9B6] rounded-md shadow-md mt-12 shadow-slate-600 w-full h-32 items-center px-4'>
+            <div className='flex justify-between items-center'>
+              <div className='flex'>
+                <div>
+                <img  className='mt-5' src={apt} width='70px' alt='logo'/>
+                  </div>
+                    <div className='m-7'>
+                    <button className='text-black text-[12px] md:text-2xl font-bold hover:underline hover:underline-offset-4 hover:transition-all'>Engineering Manager, Ecosystems</button>
+                    <p className='font-semibold  text-[10px] md:text-xl'>Aptos Labs</p>
+                    <p className='opacity-80 text-[10px] md:text-xl'>Remote-Global</p>
+                </div>
+              </div>
+              <div className='hidden md:flex'>
+                <button className='text-black'>Apply now<i class="ri-arrow-right-fill"></i></button>
+              </div>
+            </div>
+          </div>
+          <div className='bg-[#1DE9B6] rounded-md shadow-md mt-12 shadow-slate-600 w-full h-32 items-center px-4 mb-12'>
+            <div className='flex justify-between items-center'>
+              <div className='flex'>
+                <div>
+                <img  className='mt-5' src={apt} width='70px' alt='logo'/>
+                  </div>
+                    <div className='m-7'>
+                    <button className='text-black text-[12px] md:text-2xl font-bold hover:underline hover:underline-offset-4 hover:transition-all'>Information Security Lead</button>
+                    <p className='font-semibold  text-[10px] md:text-xl'>Aptos Labs</p>
+                    <p className='opacity-80 text-[10px] md:text-xl'>Remote-Global</p>
+                </div>
+              </div>
+              <div className='hidden md:flex'>
+                <button className='text-black'>Apply now<i class="ri-arrow-right-fill"></i></button>
+              </div>
+            </div>
+          </div>
+       
+          <div className='bg-[#1DE9B6] rounded-md shadow-md mt-12 shadow-slate-600 w-full h-32 items-center px-4'>
+            <div className='flex justify-between items-center'>
+              <div className='flex'>
+                <div>
+                <img  className='mt-5' src={apt} width='70px' alt='logo'/>
+                  </div>
+                    <div className='m-7'>
+                    <button className='text-black text-[12px] md:text-2xl font-bold hover:underline hover:underline-offset-4 hover:transition-all'>Technical Program Manager</button>
+                    <p className='font-semibold  text-[10px] md:text-xl'>Aptos Labs</p>
+                    <p className='opacity-80 text-[10px] md:text-xl'>Remote-USA</p>
+                </div>
+              </div>
+              <div className='hidden md:flex'>
+                <button className='text-black'>Apply now<i class="ri-arrow-right-fill"></i></button>
+              </div>
+            </div>
+          </div>
+          <div className='bg-[#1DE9B6] rounded-md shadow-md mt-12 shadow-slate-600 w-full h-32 items-center px-4'>
+            <div className='flex justify-between items-center'>
+              <div className='flex'>
+                <div>
+                <img  className='mt-5' src={apt} width='70px' alt='logo'/>
+                  </div>
+                    <div className='m-7'>
+                    <button className='text-black text-[12px] md:text-2xl font-bold hover:underline hover:underline-offset-4 hover:transition-all'>React Native Engineer</button>
+                    <p className='font-semibold  text-[10px] md:text-xl'>Aptos Labs</p>
+                    <p className='opacity-80 text-[10px] md:text-xl'>Remote-USA</p>
+                </div>
+              </div>
+              <div className='hidden md:flex'>
+                <button className='text-black'>Apply now<i class="ri-arrow-right-fill"></i></button>
+              </div>
+            </div>
+          </div>
+          <div className='bg-[#1DE9B6] rounded-md shadow-md shadow-slate-600 w-full h-32 items-center px-4 mt-12'>
+            <div className='flex justify-between items-center'>
+            
+              <div className='flex'>
+                <div>
+                <img  className='mt-5' src={apt} width='70px' alt='logo'/>
+                  </div>
+                    <div className='m-7'>
+                    <button className='text-black text-[12px] md:text-2xl  font-bold hover:underline hover:underline-offset-4 hover:transition-all'>Release Manager</button>
+                    <p className='font-semibold  text-[10px] md:text-xl'>Aptos Labs</p>
+                    <p className='opacity-80 text-[10px] md:text-xl'>Remote-Global</p>
+                </div>
+              </div>
+              <div className='hidden md:flex'>
+                <button className='text-black'>Apply now<i class="ri-arrow-right-fill"></i></button>
+              </div>
+            </div>
+          </div>
+          <div className='bg-[#1DE9B6] rounded-md shadow-md mt-12 shadow-slate-600 w-full h-32 items-center px-4'>
+            <div className='flex justify-between items-center'>
+              <div className='flex'>
+                <div>
+                <img  className='mt-5' src={apt} width='70px' alt='logo'/>
+                  </div>
+                    <div className='m-7'>
+                    <button className='text-black text-[12px] md:text-2xl font-bold hover:underline hover:underline-offset-4 hover:transition-all'>Research Scientist</button>
+                    <p className='font-semibold  text-[10px] md:text-xl'>Aptos Labs</p>
+                    <p className='opacity-80 text-[10px] md:text-xl'>Remote-USA</p>
+                </div>
+              </div>
+              <div className='hidden md:flex'>
+                <button className='text-black'>Apply now<i class="ri-arrow-right-fill"></i></button>
+              </div>
+            </div>
+          </div>
+          <div className='bg-[#1DE9B6] rounded-md shadow-md mt-12 shadow-slate-600 w-full h-32 items-center px-4'>
+            <div className='flex justify-between items-center'>
+              <div className='flex'>
+                <div>
+                <img  className='mt-5' src={apt} width='70px' alt='logo'/>
+                  </div>
+                    <div className='m-7'>
+                    <button className='text-black text-[12px] md:text-2xl font-bold hover:underline hover:underline-offset-4 hover:transition-all'>Software Engineer, Blockchain</button>
+                    <p className='font-semibold  text-[10px] md:text-xl'>Aptos Labs</p>
+                    <p className='opacity-80 text-[10px] md:text-xl'>Remote-Global</p>
+                </div>
+              </div>
+              <div className='hidden md:flex'>
+                <button className='text-black'>Apply now<i class="ri-arrow-right-fill"></i></button>
+              </div>
+            </div>
+          </div>
+          <div className='bg-[#1DE9B6] rounded-md shadow-md mt-12 shadow-slate-600 w-full h-32 items-center px-4 mb-12'>
+            <div className='flex justify-between items-center'>
+              <div className='flex'>
+                <div>
+                <img  className='mt-5' src={apt} width='70px' alt='logo'/>
+                  </div>
+                    <div className='m-7'>
+                    <button className='text-black text-[12px] md:text-2xl font-bold hover:underline hover:underline-offset-4 hover:transition-all'>Software Engineer, Ecosystem</button>
+                    <p className='font-semibold  text-[10px] md:text-xl'>Aptos Labs</p>
+                    <p className='opacity-80 text-[10px] md:text-xl'>Remote-Global</p>
+                </div>
+              </div>
+              <div className='hidden md:flex'>
+                <button className='text-black'>Apply now<i class="ri-arrow-right-fill"></i></button>
+              </div>
+            </div>
+          </div>
+          <div className='bg-[#1DE9B6] rounded-md shadow-md shadow-slate-600 w-full h-32 items-center px-4'>
+            <div className='flex justify-between items-center'>
+            
+              <div className='flex'>
+                <div>
+                <img  className='mt-5' src={apt} width='70px' alt='logo'/>
+                  </div>
+                    <div className='m-7'>
+                    <button className='text-black text-[12px] md:text-2xl  font-bold hover:underline hover:underline-offset-4 hover:transition-all'>Software Engineer, Ecosystem - Korea</button>
+                    <p className='font-semibold  text-[10px] md:text-xl'>Aptos Labs</p>
+                    <p className='opacity-80 text-[10px] md:text-xl'>Remote-Global</p>
+                </div>
+              </div>
+              <div className='hidden md:flex'>
+                <button className='text-black'>Apply now<i class="ri-arrow-right-fill"></i></button>
+              </div>
+            </div>
+          </div>
+          <div className='bg-[#1DE9B6] rounded-md shadow-md mt-12 shadow-slate-600 w-full h-32 items-center px-4'>
+            <div className='flex justify-between items-center'>
+              <div className='flex'>
+                <div>
+                <img  className='mt-5' src={apt} width='70px' alt='logo'/>
+                  </div>
+                    <div className='m-7'>
+                    <button className='text-black text-[12px] md:text-2xl font-bold hover:underline hover:underline-offset-4 hover:transition-all'>Software Engineer, Programming Languages</button>
+                    <p className='font-semibold  text-[10px] md:text-xl'>Aptos Labs</p>
+                    <p className='opacity-80 text-[10px] md:text-xl'>Remote-USA</p>
+                </div>
+              </div>
+              <div className='hidden md:flex'>
+                <button className='text-black'>Apply now<i class="ri-arrow-right-fill"></i></button>
+              </div>
+            </div>
+          </div>
+          <div className='bg-[#1DE9B6] rounded-md shadow-md mt-12 shadow-slate-600 w-full h-32 items-center px-4'>
+            <div className='flex justify-between items-center'>
+              <div className='flex'>
+                <div>
+                <img  className='mt-5' src={apt} width='70px' alt='logo'/>
+                  </div>
+                    <div className='m-7'>
+                    <button className='text-black text-[12px] md:text-2xl font-bold hover:underline hover:underline-offset-4 hover:transition-all'>Software Engineer, Smart Contracts</button>
+                    <p className='font-semibold  text-[10px] md:text-xl'>Aptos Labs</p>
+                    <p className='opacity-80 text-[10px] md:text-xl'>Remote-Global</p>
+                </div>
+              </div>
+              <div className='hidden md:flex'>
+                <button className='text-black'>Apply now<i class="ri-arrow-right-fill"></i></button>
+              </div>
+            </div>
+          </div>
+          <div className='bg-[#1DE9B6] rounded-md shadow-md mt-12 shadow-slate-600 w-full h-32 items-center px-4 mb-6'>
+            <div className='flex justify-between items-center'>
+              <div className='flex'>
+                <div>
+                <img  className='mt-5' src={apt} width='70px' alt='logo'/>
+                  </div>
+                    <div className='m-7'>
+                    <button className='text-black text-[12px] md:text-2xl font-bold hover:underline hover:underline-offset-4 hover:transition-all'>Software Engineer, Storage</button>
+                    <p className='font-semibold  text-[10px] md:text-xl'>Aptos Labs</p>
+                    <p className='opacity-80 text-[10px] md:text-xl'>Remote-Global</p>
+                </div>
+              </div>
+              <div className='hidden md:flex'>
+                <button className='text-black'>Apply now<i class="ri-arrow-right-fill"></i></button>
+              </div>
+            </div>
+          </div>
 
           <p className='mt-52'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Praesentium, repellat?</p>
-
+          </div>
     </section>
     
     </>
