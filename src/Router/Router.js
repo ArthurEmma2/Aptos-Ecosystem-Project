@@ -27,7 +27,7 @@ function Router() {
       <Route path='/jobs' element={<Job />}/>
       <Route path='/airdrop' element={<Airdrop />}/>
       <Route path='/news' element={<News />}/>
-      <Route path='/contributor' element={<Contributor />}/>
+      <Route path='/articles' element={<Contributor />}/>
       <Route path='/ecosystem:id' element={<Ecosystem />} />
       <Route path='/ecosystem' element={<Ecosystem />} />
       <Route path='/metrics' element={<Metrics />}/>

@@ -12,17 +12,45 @@ import img11 from '../../Assets/img/Tsunami.jpg'
 import img12 from '../../Assets/img/img12.jpg'
 import img13 from '../../Assets/img/img13.jpg'
 
+// NEW INFRUSTRUCTURES
+import img14 from'../../Assets/img/INFRASTRUCTURE/4c labs.jpg'
+import img15 from'../../Assets/img/INFRASTRUCTURE/aptos support.jpg'
+import img16 from'../../Assets/img/INFRASTRUCTURE/CHAIN UP.jpg'
+import img17 from'../../Assets/img/INFRASTRUCTURE/CHAINBASE.jpg'
+import img18 from'../../Assets/img/INFRASTRUCTURE/Dialect.jpg'
+import img19 from'../../Assets/img/INFRASTRUCTURE/NUTRIOS.jpg'
+import img20 from'../../Assets/img/INFRASTRUCTURE/SNOWFLAKE.jpg'
+import img21 from'../../Assets/img/INFRASTRUCTURE/SUBMATE.jpg'
 
-import contributor1 from '../img/cont2.jpg'
-import contributor2 from '../img/contr1.jpg'
-import contributor3 from '../img/contr4.jpg'
-import contributor4 from '../img/contr5.jpg'
-import contributor5 from '../img/Evon.jpg'
-import contributor from '../img/iv.jpg'
-import contributor7 from '../img/arthur.jpg'
-import contributor8 from '../img/jov.jpg'
-import contributor9 from '../img/seeo.jpg'
-import contributor10 from '../img/iri.jpg'
+
+
+
+// NEW NFTS
+
+import img22 from'../../Assets/img/NFT/APTOS APE.jpg'
+import img23 from'../../Assets/img/NFT/Aptos Weirdos.jpg'
+import img24 from'../../Assets/img/NFT/AptoSea Marketplace.jpg'
+import img25 from'../../Assets/img/NFT/Aqua Mint.jpg'
+import img27 from'../../Assets/img/NFT/Omni X.png'
+import img28 from'../../Assets/img/NFT/Top NFT.png'
+import img29 from'../../Assets/img/NFT/Artos.jpg'
+import img30 from'../../Assets/img/NFT/ArcheBase.jpg'
+import img31 from'../../Assets/img/NFT/Megacy.jpg'
+
+
+
+//NEW DEFI
+import img32 from'../../Assets/img/Defi/Aptin Finance.jpg'
+import img33 from'../../Assets/img/Defi/Aptoswap.jpg'
+import img34 from'../../Assets/img/Defi/Aries Markets.jpg'
+import img35 from'../../Assets/img/Defi/ASKMEX.jpg'
+import img36 from'../../Assets/img/Defi/Ferum.png'
+import img37 from'../../Assets/img/Defi/Mobius.jpg'
+import img38 from'../../Assets/img/Defi/MovEX.jpg'
+import img39 from'../../Assets/img/Defi/Tortuga Finance.jpg'
+import img40 from'../../Assets/img/Defi/WAVELET.jpg'
+import img41 from'../../Assets/img/Defi/Wormhole.jpg'
+import img42 from'../../Assets/img/Defi/Zepphyr.jpg'
 
 
 
@@ -288,91 +316,586 @@ import contributor10 from '../img/iri.jpg'
 
        
       },
+      {
+        id: "14",
+        title: "Aptos Support",
+        desc: ' What is the Aptos Name Service? ' +
+        'Leveraging the power of Aptos Tokens & Move we have built the decentralized, composable identity layer of Aptos.' +
+        ' Under the hood, ANS is a smart contract that maps a name to an Aptos address. Claiming a name mints you a special NFT Token that gives you the sole power to edit the address of that name. That Token is composable' +
+        ' and can be bought, sold and traded as you see fit.' ,
+        imgUrl: img15,
+        category: 'Infrastructure',
+        website: 'https://www.aptosnames.com/',
+        twitter:'https://twitter.com/aptosnames',
+        discord:'https://discord.com/invite/kPjbyhY5FE',
 
-    
+       
+      },
+      {
+        id: "15",
+        title: "4c Labs",
+        desc: ' What is the Aptos Name Service? ' +
+        'Leveraging the power of Aptos Tokens & Move we have built the decentralized, composable identity layer of Aptos.' +
+        ' Under the hood, ANS is a smart contract that maps a name to an Aptos address. Claiming a name mints you a special NFT Token that gives you the sole power to edit the address of that name. That Token is composable' +
+        ' and can be bought, sold and traded as you see fit.' ,
+        imgUrl: img14,
+        category: 'Infrastructure',
+        website: 'https://www.aptosnames.com/',
+        twitter:'https://twitter.com/aptosnames',
+        discord:'https://discord.com/invite/kPjbyhY5FE',
+
+       
+      },
+      {
+        id: "16",
+        title: "Chain Up",
+        desc: ' What is the Aptos Name Service? ' +
+        'Leveraging the power of Aptos Tokens & Move we have built the decentralized, composable identity layer of Aptos.' +
+        ' Under the hood, ANS is a smart contract that maps a name to an Aptos address. Claiming a name mints you a special NFT Token that gives you the sole power to edit the address of that name. That Token is composable' +
+        ' and can be bought, sold and traded as you see fit.' ,
+        imgUrl: img15,
+        category: 'Infrastructure',
+        website: 'https://www.aptosnames.com/',
+        twitter:'https://twitter.com/aptosnames',
+        discord:'https://discord.com/invite/kPjbyhY5FE',
+
+       
+      },
+      {
+        id: "17",
+        title: "chainbase",
+        desc: ' What is the Aptos Name Service? ' +
+        'Leveraging the power of Aptos Tokens & Move we have built the decentralized, composable identity layer of Aptos.' +
+        ' Under the hood, ANS is a smart contract that maps a name to an Aptos address. Claiming a name mints you a special NFT Token that gives you the sole power to edit the address of that name. That Token is composable' +
+        ' and can be bought, sold and traded as you see fit.' ,
+        imgUrl: img16,
+        category: 'Infrastructure',
+        website: 'https://www.aptosnames.com/',
+        twitter:'https://twitter.com/aptosnames',
+        discord:'https://discord.com/invite/kPjbyhY5FE',
+
+       
+      },
+      {
+        id: "18",
+        title: "Dialect",
+        desc: ' What is the Aptos Name Service? ' +
+        'Leveraging the power of Aptos Tokens & Move we have built the decentralized, composable identity layer of Aptos.' +
+        ' Under the hood, ANS is a smart contract that maps a name to an Aptos address. Claiming a name mints you a special NFT Token that gives you the sole power to edit the address of that name. That Token is composable' +
+        ' and can be bought, sold and traded as you see fit.' ,
+        imgUrl: img17,
+        category: 'Infrastructure',
+        website: 'https://www.aptosnames.com/',
+        twitter:'https://twitter.com/aptosnames',
+        discord:'https://discord.com/invite/kPjbyhY5FE',
+
+       
+      },
+      {
+        id: "19",
+        title: "Nutrios",
+        desc: ' What is the Aptos Name Service? ' +
+        'Leveraging the power of Aptos Tokens & Move we have built the decentralized, composable identity layer of Aptos.' +
+        ' Under the hood, ANS is a smart contract that maps a name to an Aptos address. Claiming a name mints you a special NFT Token that gives you the sole power to edit the address of that name. That Token is composable' +
+        ' and can be bought, sold and traded as you see fit.' ,
+        imgUrl: img18,
+        category: 'Infrastructure',
+        website: 'https://www.aptosnames.com/',
+        twitter:'https://twitter.com/aptosnames',
+        discord:'https://discord.com/invite/kPjbyhY5FE',
+
+       
+      },
+      {
+        id: "21",
+        title: "Snowflake",
+        desc: ' What is the Aptos Name Service? ' +
+        'Leveraging the power of Aptos Tokens & Move we have built the decentralized, composable identity layer of Aptos.' +
+        ' Under the hood, ANS is a smart contract that maps a name to an Aptos address. Claiming a name mints you a special NFT Token that gives you the sole power to edit the address of that name. That Token is composable' +
+        ' and can be bought, sold and traded as you see fit.' ,
+        imgUrl: img19,
+        category: 'Infrastructure',
+        website: 'https://www.aptosnames.com/',
+        twitter:'https://twitter.com/aptosnames',
+        discord:'https://discord.com/invite/kPjbyhY5FE',
+
+       
+      },
+      {
+        id: "22",
+        title: "Snowflake",
+        desc: ' What is the Aptos Name Service? ' +
+        'Leveraging the power of Aptos Tokens & Move we have built the decentralized, composable identity layer of Aptos.' +
+        ' Under the hood, ANS is a smart contract that maps a name to an Aptos address. Claiming a name mints you a special NFT Token that gives you the sole power to edit the address of that name. That Token is composable' +
+        ' and can be bought, sold and traded as you see fit.' ,
+        imgUrl: img20,
+        category: 'Infrastructure',
+        website: 'https://www.aptosnames.com/',
+        twitter:'https://twitter.com/aptosnames',
+        discord:'https://discord.com/invite/kPjbyhY5FE',
+
+       
+      },
+      {
+        id: "23",
+        title: "Subsmate",
+        desc: ' What is the Aptos Name Service? ' +
+        'Leveraging the power of Aptos Tokens & Move we have built the decentralized, composable identity layer of Aptos.' +
+        ' Under the hood, ANS is a smart contract that maps a name to an Aptos address. Claiming a name mints you a special NFT Token that gives you the sole power to edit the address of that name. That Token is composable' +
+        ' and can be bought, sold and traded as you see fit.' ,
+        imgUrl: img21,
+        category: 'Infrastructure',
+        website: 'https://www.aptosnames.com/',
+        twitter:'https://twitter.com/aptosnames',
+        discord:'https://discord.com/invite/kPjbyhY5FE',
+
+       
+      },
+      // {
+      //   id: "24",
+      //   title: "ONTO Wallet",
+      //   desc:  'ONTO Wallet: A Multi-Chain Identity Wallet About ONTO Web Wallet '+
+      //   'ONTO Web Wallet is a decentralized cross-chain desktop '+ 
+      //   'wallet for Chrome browser, which supports a variety of digital assets '+
+      //   'and dApps on several blockchains including Ontology, Ethereum, Binance '+ 
+      //   'Smart Chain, Polkadot and more. With ONTO Web Wallet, users can easily create '+
+      //   'their own decentralized digital identity (ONT ID) which fully protects their private dat '+
+      //   'a through an encryption algorithm, and enables the one-click creation and '+
+      //    'management of digital assets on multiple public chains. ',
+      //   imgUrl: img5,
+      //   category: 'Wallet',
+      //   website: 'https://onto.app/',
+      //   medium:  'https://theontoteam.medium.com/',
+      //   twitter:  'https://twitter.com/ONTOWallet',
+        
+       
+      // },
+      // {
+      //   id: "25",
+      //   title: "ONTO Wallet",
+      //   desc:  'ONTO Wallet: A Multi-Chain Identity Wallet About ONTO Web Wallet '+
+      //   'ONTO Web Wallet is a decentralized cross-chain desktop '+ 
+      //   'wallet for Chrome browser, which supports a variety of digital assets '+
+      //   'and dApps on several blockchains including Ontology, Ethereum, Binance '+ 
+      //   'Smart Chain, Polkadot and more. With ONTO Web Wallet, users can easily create '+
+      //   'their own decentralized digital identity (ONT ID) which fully protects their private dat '+
+      //   'a through an encryption algorithm, and enables the one-click creation and '+
+      //    'management of digital assets on multiple public chains. ',
+      //   imgUrl: img5,
+      //   category: 'Wallet',
+      //   website: 'https://onto.app/',
+      //   medium:  'https://theontoteam.medium.com/',
+      //   twitter:  'https://twitter.com/ONTOWallet',
+        
+       
+      // },
+      // {
+      //   id: "26",
+      //   title: "ONTO Wallet",
+      //   desc:  'ONTO Wallet: A Multi-Chain Identity Wallet About ONTO Web Wallet '+
+      //   'ONTO Web Wallet is a decentralized cross-chain desktop '+ 
+      //   'wallet for Chrome browser, which supports a variety of digital assets '+
+      //   'and dApps on several blockchains including Ontology, Ethereum, Binance '+ 
+      //   'Smart Chain, Polkadot and more. With ONTO Web Wallet, users can easily create '+
+      //   'their own decentralized digital identity (ONT ID) which fully protects their private dat '+
+      //   'a through an encryption algorithm, and enables the one-click creation and '+
+      //    'management of digital assets on multiple public chains. ',
+      //   imgUrl: img5,
+      //   category: 'Wallet',
+      //   website: 'https://onto.app/',
+      //   medium:  'https://theontoteam.medium.com/',
+      //   twitter:  'https://twitter.com/ONTOWallet',
+        
+       
+      // },
+      // {
+      //   id: "27",
+      //   title: "ONTO Wallet",
+      //   desc:  'ONTO Wallet: A Multi-Chain Identity Wallet About ONTO Web Wallet '+
+      //   'ONTO Web Wallet is a decentralized cross-chain desktop '+ 
+      //   'wallet for Chrome browser, which supports a variety of digital assets '+
+      //   'and dApps on several blockchains including Ontology, Ethereum, Binance '+ 
+      //   'Smart Chain, Polkadot and more. With ONTO Web Wallet, users can easily create '+
+      //   'their own decentralized digital identity (ONT ID) which fully protects their private dat '+
+      //   'a through an encryption algorithm, and enables the one-click creation and '+
+      //    'management of digital assets on multiple public chains. ',
+      //   imgUrl: img5,
+      //   category: 'Wallet',
+      //   website: 'https://onto.app/',
+      //   medium:  'https://theontoteam.medium.com/',
+      //   twitter:  'https://twitter.com/ONTOWallet',
+        
+       
+      // },
+      // {
+      //   id: "28",
+      //   title: "ONTO Wallet",
+      //   desc:  'ONTO Wallet: A Multi-Chain Identity Wallet About ONTO Web Wallet '+
+      //   'ONTO Web Wallet is a decentralized cross-chain desktop '+ 
+      //   'wallet for Chrome browser, which supports a variety of digital assets '+
+      //   'and dApps on several blockchains including Ontology, Ethereum, Binance '+ 
+      //   'Smart Chain, Polkadot and more. With ONTO Web Wallet, users can easily create '+
+      //   'their own decentralized digital identity (ONT ID) which fully protects their private dat '+
+      //   'a through an encryption algorithm, and enables the one-click creation and '+
+      //    'management of digital assets on multiple public chains. ',
+      //   imgUrl: img5,
+      //   category: 'Wallet',
+      //   website: 'https://onto.app/',
+      //   medium:  'https://theontoteam.medium.com/',
+      //   twitter:  'https://twitter.com/ONTOWallet',
+        
+       
+      // },
+      // {
+      //   id: "29",
+      //   title: "ONTO Wallet",
+      //   desc:  'ONTO Wallet: A Multi-Chain Identity Wallet About ONTO Web Wallet '+
+      //   'ONTO Web Wallet is a decentralized cross-chain desktop '+ 
+      //   'wallet for Chrome browser, which supports a variety of digital assets '+
+      //   'and dApps on several blockchains including Ontology, Ethereum, Binance '+ 
+      //   'Smart Chain, Polkadot and more. With ONTO Web Wallet, users can easily create '+
+      //   'their own decentralized digital identity (ONT ID) which fully protects their private dat '+
+      //   'a through an encryption algorithm, and enables the one-click creation and '+
+      //    'management of digital assets on multiple public chains. ',
+      //   imgUrl: img5,
+      //   category: 'Wallet',
+      //   website: 'https://onto.app/',
+      //   medium:  'https://theontoteam.medium.com/',
+      //   twitter:  'https://twitter.com/ONTOWallet',
+        
+       
+      // },
+      // {
+      //   id: "30",
+      //   title: "ONTO Wallet",
+      //   desc:  'ONTO Wallet: A Multi-Chain Identity Wallet About ONTO Web Wallet '+
+      //   'ONTO Web Wallet is a decentralized cross-chain desktop '+ 
+      //   'wallet for Chrome browser, which supports a variety of digital assets '+
+      //   'and dApps on several blockchains including Ontology, Ethereum, Binance '+ 
+      //   'Smart Chain, Polkadot and more. With ONTO Web Wallet, users can easily create '+
+      //   'their own decentralized digital identity (ONT ID) which fully protects their private dat '+
+      //   'a through an encryption algorithm, and enables the one-click creation and '+
+      //    'management of digital assets on multiple public chains. ',
+      //   imgUrl: img5,
+      //   category: 'Wallet',
+      //   website: 'https://onto.app/',
+      //   medium:  'https://theontoteam.medium.com/',
+      //   twitter:  'https://twitter.com/ONTOWallet',
+        
+       
+      // },
+      // {
+      //   id: "31",
+      //   title: "ONTO Wallet",
+      //   desc:  'ONTO Wallet: A Multi-Chain Identity Wallet About ONTO Web Wallet '+
+      //   'ONTO Web Wallet is a decentralized cross-chain desktop '+ 
+      //   'wallet for Chrome browser, which supports a variety of digital assets '+
+      //   'and dApps on several blockchains including Ontology, Ethereum, Binance '+ 
+      //   'Smart Chain, Polkadot and more. With ONTO Web Wallet, users can easily create '+
+      //   'their own decentralized digital identity (ONT ID) which fully protects their private dat '+
+      //   'a through an encryption algorithm, and enables the one-click creation and '+
+      //    'management of digital assets on multiple public chains. ',
+      //   imgUrl: img5,
+      //   category: 'Wallet',
+      //   website: 'https://onto.app/',
+      //   medium:  'https://theontoteam.medium.com/',
+      //   twitter:  'https://twitter.com/ONTOWallet',
+        
+       
+      // },
+      // {
+      //   id: "32",
+      //   title: "ONTO Wallet",
+      //   desc:  'ONTO Wallet: A Multi-Chain Identity Wallet About ONTO Web Wallet '+
+      //   'ONTO Web Wallet is a decentralized cross-chain desktop '+ 
+      //   'wallet for Chrome browser, which supports a variety of digital assets '+
+      //   'and dApps on several blockchains including Ontology, Ethereum, Binance '+ 
+      //   'Smart Chain, Polkadot and more. With ONTO Web Wallet, users can easily create '+
+      //   'their own decentralized digital identity (ONT ID) which fully protects their private dat '+
+      //   'a through an encryption algorithm, and enables the one-click creation and '+
+      //    'management of digital assets on multiple public chains. ',
+      //   imgUrl: img5,
+      //   category: 'Wallet',
+      //   website: 'https://onto.app/',
+      //   medium:  'https://theontoteam.medium.com/',
+      //   twitter:  'https://twitter.com/ONTOWallet',
+        
+       
+      // },
+      // {
+      //   id: "33",
+      //   title: "ONTO Wallet",
+      //   desc:  'ONTO Wallet: A Multi-Chain Identity Wallet About ONTO Web Wallet '+
+      //   'ONTO Web Wallet is a decentralized cross-chain desktop '+ 
+      //   'wallet for Chrome browser, which supports a variety of digital assets '+
+      //   'and dApps on several blockchains including Ontology, Ethereum, Binance '+ 
+      //   'Smart Chain, Polkadot and more. With ONTO Web Wallet, users can easily create '+
+      //   'their own decentralized digital identity (ONT ID) which fully protects their private dat '+
+      //   'a through an encryption algorithm, and enables the one-click creation and '+
+      //    'management of digital assets on multiple public chains. ',
+      //   imgUrl: img5,
+      //   category: 'Wallet',
+      //   website: 'https://onto.app/',
+      //   medium:  'https://theontoteam.medium.com/',
+      //   twitter:  'https://twitter.com/ONTOWallet',
+        
+       
+      // },
+     
+      {
+        id: "35",
+        title: "Aptos Ape",
+        desc: "Discover art, culture, & digital expression. The premiere NFT marketplace, built on Aptos.",
+        imgUrl: img22,
+        category: 'NFT',
+        discord:'https://discord.com/invite/SWVxuJkFSH',
+        website:'https://www.topaz.so/',
+        twitter:'https://twitter.com/TopazMarket',
+       
+      },
+     
+      {
+        id: "37",
+        title: "Aptos Weirdos",
+        desc: "Discover art, culture, & digital expression. The premiere NFT marketplace, built on Aptos.",
+        imgUrl: img23,
+        category: 'NFT',
+        discord:'https://discord.com/invite/SWVxuJkFSH',
+        website:'https://www.topaz.so/',
+        twitter:'https://twitter.com/TopazMarket',
+       
+      },
+      {
+        id: "38",
+        title: "Aptos Sea",
+        desc: "Discover art, culture, & digital expression. The premiere NFT marketplace, built on Aptos.",
+        imgUrl: img24,
+        category: 'NFT',
+        discord:'https://discord.com/invite/SWVxuJkFSH',
+        website:'https://www.topaz.so/',
+        twitter:'https://twitter.com/TopazMarket',
+       
+      },
+      {
+        id: "39",
+        title: "Aqua Mint",
+        desc: "Discover art, culture, & digital expression. The premiere NFT marketplace, built on Aptos.",
+        imgUrl: img25,
+        category: 'NFT',
+        discord:'https://discord.com/invite/SWVxuJkFSH',
+        website:'https://www.topaz.so/',
+        twitter:'https://twitter.com/TopazMarket',
+       
+      },
+      {
+        id: "40",
+        title: "Omni X",
+        desc: "Discover art, culture, & digital expression. The premiere NFT marketplace, built on Aptos.",
+        imgUrl: img27,
+        category: 'NFT',
+        discord:'https://discord.com/invite/SWVxuJkFSH',
+        website:'https://www.topaz.so/',
+        twitter:'https://twitter.com/TopazMarket',
+       
+      },
+      {
+        id: "41",
+        title: "Top NFT",
+        desc: "Discover art, culture, & digital expression. The premiere NFT marketplace, built on Aptos.",
+        imgUrl: img28,
+        category: 'NFT',
+        discord:'https://discord.com/invite/SWVxuJkFSH',
+        website:'https://www.topaz.so/',
+        twitter:'https://twitter.com/TopazMarket',
+       
+      },
+      {
+        id: "42",
+        title: "Artos",
+        desc: "Discover art, culture, & digital expression. The premiere NFT marketplace, built on Aptos.",
+        imgUrl: img29,
+        category: 'NFT',
+        discord:'https://discord.com/invite/SWVxuJkFSH',
+        website:'https://www.topaz.so/',
+        twitter:'https://twitter.com/TopazMarket',
+       
+      },
+      {
+        id: "43",
+        title: "Archebase",
+        desc: "Discover art, culture, & digital expression. The premiere NFT marketplace, built on Aptos.",
+        imgUrl: img30,
+        category: 'NFT',
+        discord:'https://discord.com/invite/SWVxuJkFSH',
+        website:'https://www.topaz.so/',
+        twitter:'https://twitter.com/TopazMarket',
+       
+      },
+      {
+        id: "44",
+        title: "Megazy",
+        desc: "Discover art, culture, & digital expression. The premiere NFT marketplace, built on Aptos.",
+        imgUrl: img31,
+        category: 'NFT',
+        discord:'https://discord.com/invite/SWVxuJkFSH',
+        website:'https://www.topaz.so/',
+        twitter:'https://twitter.com/TopazMarket',
+       
+      },
+      {
+        id: "45",
+        title: "Aptin Finance",
+        desc: 'An autonomous, algorithmic liquidity protocol built on Aptos. ' +
+        'Vial is a pooled interest rate protocol which allows users to lend or borrow assets on Aptos. ' +
+        'Interest rates are determined algorithmically based on pool utilization: the ratio of borrowed to supplied assets.' +
+        'Our mission is to accelerate the adoption of DeFi for everyone. ' ,
+        imgUrl: img32,
+        category: 'Defi',
+        website: 'https://t.co/fY0PwlU9X7',
+        discord: 'https://discord.com/invite/fMjZTVsSfe',
+
+       
+      },
+      {
+        id: "46",
+        title: "Aptos Swap",
+        desc: 'An autonomous, algorithmic liquidity protocol built on Aptos. ' +
+        'Vial is a pooled interest rate protocol which allows users to lend or borrow assets on Aptos. ' +
+        'Interest rates are determined algorithmically based on pool utilization: the ratio of borrowed to supplied assets.' +
+        'Our mission is to accelerate the adoption of DeFi for everyone. ' ,
+        imgUrl: img33,
+        category: 'Defi',
+        website: 'https://t.co/fY0PwlU9X7',
+        discord: 'https://discord.com/invite/fMjZTVsSfe',
+
+       
+      },
+      {
+        id: "47",
+        title: "Aries Market",
+        desc: 'An autonomous, algorithmic liquidity protocol built on Aptos. ' +
+        'Vial is a pooled interest rate protocol which allows users to lend or borrow assets on Aptos. ' +
+        'Interest rates are determined algorithmically based on pool utilization: the ratio of borrowed to supplied assets.' +
+        'Our mission is to accelerate the adoption of DeFi for everyone. ' ,
+        imgUrl: img34,
+        category: 'Defi',
+        website: 'https://t.co/fY0PwlU9X7',
+        discord: 'https://discord.com/invite/fMjZTVsSfe',
+
+       
+      },
+      {
+        id: "48",
+        title: "AskMex",
+        desc: 'An autonomous, algorithmic liquidity protocol built on Aptos. ' +
+        'Vial is a pooled interest rate protocol which allows users to lend or borrow assets on Aptos. ' +
+        'Interest rates are determined algorithmically based on pool utilization: the ratio of borrowed to supplied assets.' +
+        'Our mission is to accelerate the adoption of DeFi for everyone. ' ,
+        imgUrl: img35,
+        category: 'Defi',
+        website: 'https://t.co/fY0PwlU9X7',
+        discord: 'https://discord.com/invite/fMjZTVsSfe',
+
+       
+      },
+      {
+        id: "49",
+        title: "Ferum",
+        desc: 'An autonomous, algorithmic liquidity protocol built on Aptos. ' +
+        'Vial is a pooled interest rate protocol which allows users to lend or borrow assets on Aptos. ' +
+        'Interest rates are determined algorithmically based on pool utilization: the ratio of borrowed to supplied assets.' +
+        'Our mission is to accelerate the adoption of DeFi for everyone. ' ,
+        imgUrl: img36,
+        category: 'Defi',
+        website: 'https://t.co/fY0PwlU9X7',
+        discord: 'https://discord.com/invite/fMjZTVsSfe',
+
+       
+      },
+      {
+        id: "50",
+        title: "Mobius",
+        desc: 'An autonomous, algorithmic liquidity protocol built on Aptos. ' +
+        'Vial is a pooled interest rate protocol which allows users to lend or borrow assets on Aptos. ' +
+        'Interest rates are determined algorithmically based on pool utilization: the ratio of borrowed to supplied assets.' +
+        'Our mission is to accelerate the adoption of DeFi for everyone. ' ,
+        imgUrl: img37,
+        category: 'Defi',
+        website: 'https://t.co/fY0PwlU9X7',
+        discord: 'https://discord.com/invite/fMjZTVsSfe',
+
+       
+      },
+      {
+        id: "51",
+        title: "MoveEx",
+        desc: 'An autonomous, algorithmic liquidity protocol built on Aptos. ' +
+        'Vial is a pooled interest rate protocol which allows users to lend or borrow assets on Aptos. ' +
+        'Interest rates are determined algorithmically based on pool utilization: the ratio of borrowed to supplied assets.' +
+        'Our mission is to accelerate the adoption of DeFi for everyone. ' ,
+        imgUrl: img38,
+        category: 'Defi',
+        website: 'https://t.co/fY0PwlU9X7',
+        discord: 'https://discord.com/invite/fMjZTVsSfe',
+
+       
+      },
+      {
+        id: "52",
+        title: "Tortuga Finance",
+        desc: 'An autonomous, algorithmic liquidity protocol built on Aptos. ' +
+        'Vial is a pooled interest rate protocol which allows users to lend or borrow assets on Aptos. ' +
+        'Interest rates are determined algorithmically based on pool utilization: the ratio of borrowed to supplied assets.' +
+        'Our mission is to accelerate the adoption of DeFi for everyone. ' ,
+        imgUrl: img39,
+        category: 'Defi',
+        website: 'https://t.co/fY0PwlU9X7',
+        discord: 'https://discord.com/invite/fMjZTVsSfe',
+
+       
+      },
+      {
+        id: "53",
+        title: "Via",
+        desc: 'An autonomous, algorithmic liquidity protocol built on Aptos. ' +
+        'Vial is a pooled interest rate protocol which allows users to lend or borrow assets on Aptos. ' +
+        'Interest rates are determined algorithmically based on pool utilization: the ratio of borrowed to supplied assets.' +
+        'Our mission is to accelerate the adoption of DeFi for everyone. ' ,
+        imgUrl: img40,
+        category: 'Defi',
+        website: 'https://t.co/fY0PwlU9X7',
+        discord: 'https://discord.com/invite/fMjZTVsSfe',
+
+       
+      },
+      {
+        id: "54",
+        title: "Worm hole",
+        desc: 'An autonomous, algorithmic liquidity protocol built on Aptos. ' +
+        'Vial is a pooled interest rate protocol which allows users to lend or borrow assets on Aptos. ' +
+        'Interest rates are determined algorithmically based on pool utilization: the ratio of borrowed to supplied assets.' +
+        'Our mission is to accelerate the adoption of DeFi for everyone. ' ,
+        imgUrl: img41,
+        category: 'Defi',
+        website: 'https://t.co/fY0PwlU9X7',
+        discord: 'https://discord.com/invite/fMjZTVsSfe',
+
+       
+      },
+      {
+        id: "55",
+        title: "Zepphyr",
+        desc: 'An autonomous, algorithmic liquidity protocol built on Aptos. ' +
+        'Vial is a pooled interest rate protocol which allows users to lend or borrow assets on Aptos. ' +
+        'Interest rates are determined algorithmically based on pool utilization: the ratio of borrowed to supplied assets.' +
+        'Our mission is to accelerate the adoption of DeFi for everyone. ' ,
+        imgUrl: img42,
+        category: 'Defi',
+        website: 'https://t.co/fY0PwlU9X7',
+        discord: 'https://discord.com/invite/fMjZTVsSfe',
+
+       
+      },
 
  ] 
-
-
- export const CONTRIBUTORS__DATA = [
-  {
-    id: '30',
-    name:'Evon',
-    avatar: contributor5,
-    twitter:"",
-    role: "Founder",
-  },
-  {
-    id:'31',
-    name:"Ivmh",
-    avatar: contributor,
-    twitter:"",
-    role: "Founder"
-  },
-  {
-    id:'32',
-    name:"Mestro",
-    avatar: contributor2,
-    twitter:"",
-    role: "Mod, writer and fundamental analysis"
-    
-  },
- 
-  {
-    id:'40',
-    name:"Irina",
-    avatar:contributor10,
-    twitter:"",
-    role: "Graphic designer",
-  },
-  {
-    id:'35',
-    name:"Eaxy",
-    avatar:contributor1,
-    twitter:"",
-    linkedin:"",
-    role: "Community manager",
-  },
-  {
-    id:'36',
-    name:"Ya-je",
-    avatar:contributor4,
-    twitter:"",
-    role: "Full-stack developer",
-  },
-  {
-    id:'37',
-    name:"Arthur Emmanuel",
-    avatar:contributor7,
-    twitter:"",
-    role: "Founder of Aptos Africa,  Front-end developer",
-  },
-  {
-    id:'38',
-    name:"Jovar Hamza",
-    avatar:contributor8,
-    twitter:"",
-    role: "Admin, German, Russian Translator",
-  },
-  {
-    id:'39',
-    name:"Seeko",
-    avatar:contributor9,
-    twitter:"",
-    role: "Lead mod",
-  },
-  {
-    id:'33',
-    name:"Simon",
-    avatar: contributor3,
-    twitter:"",
-    role: "Web3 content creator and writer"
-  },
-
-  
- ]
-
-
-
-
 

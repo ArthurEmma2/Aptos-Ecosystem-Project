@@ -13,7 +13,7 @@ const STEP__DATA =[
     },
     {
         title: 'Community',
-        desc: "The Dapptos Community is made up of Innovators, Creators, Contributors, and, of course, a few wild cards.",
+        desc: "The Aptos Community is made up of Innovators, Creators, Contributors, and, of course, a few wild cards.",
         imgurl: community
     },
     {
@@ -23,8 +23,9 @@ const STEP__DATA =[
     },
     {
         title: 'Join our Discord',
-        desc: "Join ongoing topical conversations about Dapptos. Attend our weekly ecosystem discusions learn and explore.",
-        imgurl: Discord
+        desc: "Join ongoing topical conversations about Aptos. Attend our weekly ecosystem discusions learn and explore.",
+        imgurl: Discord,
+        Url: ""
     },
 ]
 

@@ -5,6 +5,8 @@ import img2 from '../Assets/img/Ec1'
 import img from '../Assets/img/Work_cooperation_2.png'
 import acad from '../Assets/img/docs.svg'
 import docs from '../Assets/img/docs2.svg'
+import move from '../Assets/img/move-1-removebg-preview.png'
+import speed from '../Assets/img/rocket-removebg-preview.png'
 import  Aos  from 'aos';
 
 function Education() {
@@ -37,11 +39,30 @@ function Education() {
             <div className=''data-aos='fade-left'>
             <img src={img2} width='200px' alt='edu' />
               <p className='text-[#90E6D1] items-center tracking-[2px] leading-7'>
-              <h1 className='e-header text-xl opacity-70 font-bold'> Web is evolving. Don’t oversleep it.</h1><br />
-                   The decentralized internet, or Web3,has been
-                   growing at a fast pace since its inception in 2009.It is now  a magnet  
-                  to talent, with more smart developers joining every day.Web3 monthly  
-                  developers are up +15% over 2020, 
+              <h1 className='e-header text-xl opacity-70 font-bold'> Decentralize.</h1><br />
+              Decentralized: In a blockchain context, decentralization means that
+               the network operates independently from the control of a centralized 
+               intermediary, usually evidenced by a
+               widely distributed global network of nodes that furnish the network’s operation.
+                   </p> <br />
+            </div>
+            <div className=''data-aos='fade-right'>
+            <img className='e-header' src={move} width='200px' alt='edu' />
+              <p className='text-[#90E6D1] items-center tracking-[2px] leading-7'>
+              <h1 className='e-header text-xl opacity-70 font-bold'>Move</h1><br />
+                The Move programming laungauage largely emphasizes delivering a safe and programmable foundation.it was developed by Facebook for developing customizable transaction logic and smart contracts for the Libra digital currency
+                   </p> <br />
+            </div>
+        </div>
+        <div className='grid grid-cols-1 md:flex items-center gap-20 justify-center overflow-x-hidden'>
+            <div className=''data-aos='fade-left'>
+            <img src={speed} width='200px' alt='edu' />
+              <p className='text-[#90E6D1] items-center tracking-[2px] leading-7'>
+              <h1 className='e-header text-xl opacity-70 font-bold'>Speed.</h1><br />
+              Aptos blockchains are incredibly powerful, fast and scalable. Aptos
+               can process 130,000 tps (transactions per second): this result was 
+               achieved during a speed test. Block-STM, plays
+               a major part in this and can increase this to 160,000 tps
                    </p> <br />
             </div>
             <div className=''data-aos='fade-right'>

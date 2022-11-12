@@ -30,13 +30,10 @@ const NAV__LINKS = [
         url: '/jobs' 
     },
     {
-        display: 'Airdrop',
-        url: '/airdrop' 
+        display: 'Articles',
+        url: '/articles' 
     },
-    {
-        display: 'Contributors',
-        url: '/contributor' 
-    },
+   
 ]
 
 function Header() {
@@ -78,9 +75,8 @@ const toggleMenu = () => menuRef.current.classList.toggle('active__menu')
                          
                 </div>
                 <div className='icons hidden md:flex gap-5 text-[30px] cursor-pointer text-white'>
-               <span><i className="ri-medium-line hover:opacity-[0.4]"></i></span>
-               <span><i className="ri-discord-line hover:opacity-[0.4]"></i></span>
-               <span><i className="ri-twitter-line hover:opacity-[0.4]"></i></span>
+              
+               <span> <span className='text-[#1DE9B6] text-xl font-bold'>twitter</span> <i className="ri-twitter-line hover:opacity-[0.4]"></i></span>
                </div>
             </div>
     </header>
