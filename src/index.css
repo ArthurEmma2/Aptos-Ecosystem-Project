@@ -45,6 +45,10 @@ body{
 }
 
 
+.job_img img{
+    width: 800px;
+}
+
 
 .btn_h:hover{
 border: 1px solid green;
@@ -77,3 +81,17 @@ border: 1px solid green;
     background: grey;
 }
 
+
+
+@media only screen and (max-width: 991px){
+    .job_img img{
+        width: 300px;
+    }
+}
+
+
+@media only screen and (max-width: 551px){
+    .job_img img{
+        display: none;
+    }
+}

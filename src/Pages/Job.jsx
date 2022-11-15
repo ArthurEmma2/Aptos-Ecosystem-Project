@@ -1,18 +1,25 @@
 import React from 'react'
 import apt from '../Assets/img/Copy of Aptos_mark_BLK (1).png'
+import img from '../Assets/img/Mask group1.png'
 
 function Job() {
   return (
     <>
-    <section className='container mt-52'>
-      <div className=''>
-        <p className='text-white text-3xl lg:text-2xl font-extrabold'> Let's buidl</p>
-        <p className=' text-3xl lg:text-6xl text-[#1DE9B6] font-extrabold mb-5'> The Aptos ecosystem is evolving <br/></p>
-        <div className='text-center'>
+    <section className='container overflow-hidden mt-32'>
+      <div className='flex justify-around items-center flex-col md:flex-row'>
+        <div className=''>
+        <p className='text-white text-3xl lg:text-2xl font-extrabold e-header'> Let's buidl</p>
+        <p className=' text-3xl lg:text-6xl text-[#1DE9B6] font-extrabold'> The Aptos ecosystem is evolving <br/></p>
+        </div>
+    
+          <div className='job_img mt-5 lg:top-12 relative lg:left-[105px]'>
+            <img src={img} alt='' />
+    
+      </div>
+    
 
         </div>
-        <button className='bg-white shadow-md shadow-slate-400 text-center mx-auto py-2 px-10 rounded-lg mt-8 text-xl hover:opacity-40'>Post a job</button>
-        </div>
+        <button className='bg-white shadow-md shadow-slate-400 text-center mx-auto py-2 px-10 rounded-lg text-xl hover:opacity-40  md:absolute md:top-[400px] lg:top-[500px]'>Post a job</button>
         <div className='mt-32'>
         <header className='text-white text-4xl opacity-70 font-bold text-left underline  underline-offset-8 mb-10'>Engineering</header>
           <div className='bg-[#1DE9B6] rounded-md shadow-md shadow-slate-600 w-full h-32 items-center px-4'>
