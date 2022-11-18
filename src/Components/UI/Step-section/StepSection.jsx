@@ -25,7 +25,7 @@ const STEP__DATA =[
         title: 'Join our Discord',
         desc: "Join ongoing topical conversations about Aptos. Attend our weekly ecosystem discusions learn and explore.",
         imgurl: Discord,
-        Url: ""
+        Url: "https://discord.gg/aptoslabs"
     },
 ]
 
@@ -55,11 +55,14 @@ function StepSection() {
                 return(
                     <div key={index} className=' p-7 items-center rounded-lg'>
                         <div className='mx-auto'>
+                        <a target='_blank' rel="noreferrer" href={item.Url}>
                             <img src={imgurl} width='70px' alt='logo'/>
+                            </a>
                             </div>
                         <div>
-                        <h4 className=' e-header font-bold my-3'>{title}</h4>
+                        <h4 className=' e-header font-bold my-3'>{title}</h4>    
                         <p className='text-white opacity-70 tracking-wider leading-7'>{desc}</p>
+                      
                         </div>
 
                       

@@ -1,15 +1,15 @@
 import React from 'react'
-// import  {CONTRIBUTORS__DATA}  from '../Assets/data/data'
+// import  {ArticlesS__DATA}  from '../Assets/data/data'
 import '../Styles/contributrors.css'
 import image from '../Assets/img/wall2-removebg-preview.png'
 
-function Contributor() {
+function Articles() {
   return (
  <div className='container'>
  <div className=' flex-col lg:flex-row flex lg:justify-between items-center mt-52'>
  <div>
     <header className='text-4xl e-header font-bold tracking-[2px]'>Articles</header>
-    <p className='font-extrabold text-[#1DE9B6] text-3xl lg:text-6xl'>Discover all the recent articles in  the <br />Aptos ecosystem</p>
+    <p className='font-extrabold text-[#1DE9B6] text-3xl lg:text-6xl'>Discover all the recent news and articles in  the <br />Aptos ecosystem</p>
  </div>
  <div>
 <img src={image} alt='' />
@@ -21,4 +21,4 @@ function Contributor() {
   )
 
 }
-export default Contributor
+export default Articles

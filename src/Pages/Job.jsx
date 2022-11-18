@@ -5,8 +5,8 @@ import img from '../Assets/img/Mask group1.png'
 function Job() {
   return (
     <>
-    <section className='container overflow-hidden mt-32'>
-      <div className='flex justify-around items-center flex-col md:flex-row'>
+    <section className='container mt-32'>
+      <div className='flex justify-around items-center flex-col md:flex-row overflow-hidden'>
         <div className=''>
         <p className='text-white text-3xl lg:text-2xl font-extrabold e-header'> Let's buidl</p>
         <p className=' text-3xl lg:text-6xl text-[#1DE9B6] font-extrabold'> The Aptos ecosystem is evolving <br/></p>

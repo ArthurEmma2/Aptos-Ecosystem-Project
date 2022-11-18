@@ -68,7 +68,7 @@ function Education() {
             <div className=''data-aos='fade-right'>
             <img src={img} width='200px' alt='edu' />
               <p className='text-[#90E6D1] items-center tracking-[2px] leading-7'>
-              <h1 className='e-header text-xl opacity-70 font-bold'> Curious minds gets the vast opportunities</h1><br />
+              <h1 className='e-header text-xl opacity-70 font-bold'>Vast opportunities</h1><br />
               The new skills that you will learn by finishing this course will open 
               new doors and new career opportunities 
               in the ever growing blockchain
