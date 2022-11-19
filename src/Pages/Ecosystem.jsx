@@ -57,7 +57,7 @@ let dataSearch =project.filter(item =>{
         <h2 className='e-header text-4xl text-center md:text-5xl lg:text-6xl mb-3 font-bold' > The driven power is building</h2>
         <p className='text-white opacity-70 text-[15px] text-center md:text-[20px] font-bold tracking-wider my-8'>Your guide to what’s live today and coming soon on Aptos!</p>
         <div className='grid grid-flow-col items-center justify-center mt-10 gap-10'>
-          <a target='_blank' rel="noreferrer" href='https://docs.google.com/forms/d/e/1FAIpQLSe96RmehyJipakdTTWymi3_5V4m2y5zqpD2GHWWV3Fcc58iIw/viewform' >
+          <a target='_blank' rel="noreferrer" href='https://docs.google.com/forms/d/e/1FAIpQLSc1T6M3Hix12fLQIBiUIQCfg-V4uNiZoHrVKn656-_L1Keoeg/viewform' >
         <button className='text-white text-[8px]  md:text-[16px] bg-transparent  shadow-slate-400 shadow-sm p-3 rounded-[15px] btn_h'>Submit your project</button>
         </a>
          <div className='text-white  text-[10px] md:text-[16px]  shadow-slate-400 shadow-sm p-3 rounded-[15px]'>

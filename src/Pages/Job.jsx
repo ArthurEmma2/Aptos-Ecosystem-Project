@@ -19,7 +19,8 @@ function Job() {
     
 
         </div>
-        <button className='bg-white shadow-md shadow-slate-400 text-center mx-auto py-2 px-10 rounded-lg text-xl hover:opacity-40  md:absolute md:top-[400px] lg:top-[500px]'>Post a job</button>
+        <a target='_blank' rel="noreferrer"  href='https://forms.gle/CS9nWkA5egwsT2W47'>
+        <button className='bg-white shadow-md shadow-slate-400 text-center mx-auto py-2 px-10 rounded-lg text-xl hover:opacity-40  md:absolute md:top-[400px] lg:top-[500px]'>Post a job</button></a>
         <div className='mt-32'>
         <header className='text-white text-4xl opacity-70 font-bold text-left underline  underline-offset-8 mb-10'>Engineering</header>
           <div className='bg-[#1DE9B6] rounded-md shadow-md shadow-slate-600 w-full h-32 items-center px-4'>
