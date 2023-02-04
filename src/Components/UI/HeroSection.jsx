@@ -14,10 +14,10 @@ function HeroSection() {
       <div className='container'>
         <h1 className=' text-left text-3xl leading-[45px] glowing_text md:text-left md:leading-[60px] md:text-5xl lg:text-6xl font-bold lg:text-center tracking-[2px]'>Aptos More! stay up to date with the Aptos ecosystem,
                                     The <ReactRotatingText pause={3000}
-                                    typingInterval={100} items={['community platform', 'locus', 'center']} />  of <span
+                                    typingInterval={100} items={['locus', 'center']} />  of <span
                                     > Aptos</span></h1>  
                 <h3 className='text-left text-[17px] md:text-[25px] text-white opacity-70 mt-20 md:text-left lg:text-center tracking-[2px] leading-[30px]'>     
-                <p data-aos='fade-up'> Aptos More, a  platform to explore everything about the Aptos ecosystem  major</p>
+              Aptos More, a  platform to explore everything about the Aptos ecosystem  major
                 <p data-aos='fade-down'>  features ( education, articles, jobs offers, metrics and projects dashboard).</p> </h3>
       </div>
     </section>

@@ -1,5 +1,5 @@
 import React,{useEffect} from 'react'
-import heroImage from '../Assets/img/ec2.png'
+import heroImage from '../Assets/img/Mask group1.webp'
 import img1 from '../Assets/img/ed3-removebg-preview.png'
 import img2 from '../Assets/img/Ec1.png'
 import img from '../Assets/img/Work_cooperation_2.png'
@@ -17,20 +17,20 @@ function Education() {
   <section className='container mt-48'>
     <div className='sm:grid pt-20 grid-cols-1 md:grid-cols-1 grid lg:flex container items-center'>
       <div className=''>
-          <h4  className='text-[#90E6D1] e-header text-3xl tracking-[2px] '>Learn how to</h4>
-         <h1 className=' text-2xl leading-9 md:text-5xl text-blue-400 md:leading-[60px] font-bold'>
+          <h4  className='text-[#90E6D1] e-header text-3xl tracking-[2px] text-center lg:text-left'>Learn how to</h4>
+         <h1 className=' text-2xl leading-9 md:text-5xl text-blue-400 md:leading-[60px] font-bold text-center lg:text-left'>
               build Web3 dApps on Aptos Blockchain with fun
               and<br /> free interactive courses
           </h1> 
-        <p className='py-4 text-[#90E6D1] opacity-80 mt-4 tracking-[2px]'>
-        Aptos is building an interactive course for web developers <br></br>
+        <p className='py-4 text-[#90E6D1] opacity-80 mt-4 tracking-[2px] w-full text-center lg:text-left  md:w-[600px]'>
+        Aptos is building an interactive course for web developers
         looking to explore blockchain integration with their Apps.</p>
       </div>
 
      
 
       <div>
-      <img src={heroImage}  className='sm:w-full shadow-md shadow-slate-300 border-none py-3' alt='' />
+      <img width='880px' src={heroImage}  className=' hidden md:flex' alt='' />
       </div>
     </div>
         <h1 className='e-header text-4xl text-center md:text-5xl lg:text-6xl font-bold my-32'>Why learn blockchain & Aptos?</h1>

@@ -1,19 +1,19 @@
 import React from 'react'
 import apt from '../Assets/img/Copy of Aptos_mark_BLK (1).png'
-import img from '../Assets/img/Mask group1.png'
+import img from '../Assets/img/clock_11.webp'
 
 function Job() {
   return (
     <>
     <section className='container mt-32'>
-      <div className='flex justify-around items-center flex-col md:flex-row overflow-hidden'>
+      <div className='flex  items-center flex-col md:flex-row overflow-hidden'>
         <div className=''>
         <p className='text-white text-3xl lg:text-2xl font-extrabold e-header'> Let's buidl</p>
-        <p className=' text-3xl lg:text-6xl text-[#1DE9B6] font-extrabold'> The Aptos ecosystem is evolving <br/></p>
+        <p className=' text-3xl lg:text-6xl text-[#1DE9B6] font-extrabold w-[full] md:w-[700px]'> The Aptos ecosystem is evolving <br/></p>
         </div>
     
-          <div className='job_img mt-5 lg:top-12 relative lg:left-[105px]'>
-            <img src={img} alt='' />
+          <div className=' mt-5'>
+            <img width='300px' src={img} alt='' />
     
       </div>
     

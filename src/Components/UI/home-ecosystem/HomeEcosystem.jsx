@@ -9,7 +9,7 @@ import EcosystemCards from '../ecosystemCards/EcosystemCards'
 
 function HomeEcosystem() {
   return (
-   <section className='mt-64'>
+   <section className='mt-32 md:mt-64'>
     <div className='container'>
       <div className='flex items-center justify-between'>
       <div>

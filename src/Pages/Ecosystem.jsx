@@ -70,14 +70,14 @@ let dataSearch =project.filter(item =>{
       </div>
 
       <div>
-      <h1 className='text-white text-center text-5xl font-bold mt-52'>{cat}</h1>
+      <h1 className='text-white text-center text-5xl font-bold mt-auto md:mt-52'>{cat}</h1>
       </div>
         <div className='text-center grid grid-cols-1 lg:flex pb-24 gap-14'>
             <div className=" text-white font-bold  text-2xl gap-10 mt-[132px]">
                     <Button filtered={filtered} button={buttons}></Button>
         
               </div>
-              <div className='sm:grid grid-cols-1 md:grid-cols-2 grid lg:grid-cols-3 xl:grid-cols-3 justify-between items-center mt-32 gap-12'>
+              <div className='sm:grid grid-cols-1 md:grid-cols-2 grid lg:grid-cols-3 xl:grid-cols-3 justify-between items-center mt-auto md:mt-32 gap-12'>
               {
               dataSearch.map((item, id) =>{
           return(

@@ -38,17 +38,17 @@ function StepSection() {
         Aos.init({duration:2000})
       },[])
   return (
-   <section className='mt-64'>
+   <section className='mt-32 md:mt-64'>
     <div className="container overflow-x-hidden">
-    <div>
+    <div className='container'>
         <h2 className='e-header text-2xl text-left  md:text-5xl lg:text-6xl mb-3 font-bold'data-aos='fade-right'>Jump right in</h2>
-        <p className='text-white opacity-70 text-[15px] text-left md:text-[25px] font-bold tracking-wider'>
-        Whether you’re an individual looking to use one of the projects <br></br>
-         or a developer wanting to build on Aptos, now is the time  <br></br>
+        <p className='text-white opacity-70 text-[15px] text-left md:text-[25px] font-bold tracking-wider w-full md:w-[750px]'>
+        Whether you’re an individual looking to use one of the projects 
+         or a developer wanting to build on Aptos, now is the time  
          to get started.</p>
         </div>
 
-        <div className='sm:grid grid-cols-1 md:grid-cols-2 grid lg:grid-cols-3 xl:grid-cols-4 justify-between items-center mt-32 gap-12'>
+        <div className='sm:grid grid-cols-1 md:grid-cols-2 grid lg:grid-cols-3 xl:grid-cols-4 justify-between items-center mt-16 md:mt-32 gap-12'>
             {
                 STEP__DATA.map((item, index) =>{
                 const {title, desc, imgurl} = item
